@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1083154911370",
+    "firebase_url": "https://heartbreaker-draw.firebaseio.com",
+    "project_id": "heartbreaker-draw",
+    "storage_bucket": "heartbreaker-draw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083154911370:android:31cec3a40ce19ed8",
+        "android_client_info": {
+          "package_name": "com.draw.heartbreaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083154911370-upm8b3po4d88eolccpcjtf02lb7oske6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCONvtvKkCn_ZXNhC7o9l9yykVlqJvyFtg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
